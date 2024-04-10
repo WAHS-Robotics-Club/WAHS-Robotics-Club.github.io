@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Outreach and Impact"
-permalink: /our-mission/
+permalink: /outreach/
 author_profile: true
 ---
 
-Our Mission
+Outreach
