@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Our Misson"
+    url: /our-mission/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Outreach and Impact"
+    url: /outreach/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Our Robots"
+    url: /robots/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Upcoming Events"
+    url: /upcoming/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /contact/
