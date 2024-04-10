@@ -22,13 +22,12 @@ repository               : "WAHS-Robotics-Club/WAHS-Robotics-Club.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "WAHS Robotics"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "The robotics club of Western Albemarle High School"
+  location         : "Crozet, VA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "westernroboticshsclub@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
